@@ -1,9 +1,9 @@
 <img align="right" width="500" height="500" src="https://github.com/DamianRincon/DamianRincon/blob/master/img/home-banner-bg.png">
 
 
-# Hola, soy desarrollador.
+# Hola.
 
-Full-Stack | Web | Mobile (Android & Flutter)
+Full-Stack Developer| PHP | .NET | JAVA | ANDROID | ANGULAR 
 
 [![Github](https://img.shields.io/github/followers/DamianRincon?style=social)](https://github.com/DamianRincon)
 [![Github](https://img.shields.io/github/last-commit/DamianRincon/DamianRincon)](https://github.com/DamianRincon/DamianRincon)
@@ -16,11 +16,11 @@ Full-Stack | Web | Mobile (Android & Flutter)
 
 - Soy Desarrollador de software, diseño, construyo y a veces rescato aplicaciones.
 
-- A Damián le encanta programar, leer, tomar café y jugar videojuegos.
+- A William le gusta programar, leer, tomar café , jugar videojuegos y viajar.
 
-- No le gusta hablar de si mismo en tercera persona, a veces es algo sarcástico.
+- Es de signo Acuario.
 
-- Habla español y memes.
+- Habla español. 
 
 
 ## Mis redes sociales
